@@ -102,7 +102,6 @@ void test( int a, int x, int y)
         //if outofbounds
         value = 4;
     }
-    
 
     if ( value == 4 ){ /*do nothing*/ }
     else if ( value == 0)
